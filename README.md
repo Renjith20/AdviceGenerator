@@ -1,3 +1,8 @@
+
+
+![Screenshot 2024-05-28 211544](https://github.com/Renjith20/AdviceGenerator/assets/93483303/1f070ad0-6488-4517-9e03-c47b2b0f6ad8)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
